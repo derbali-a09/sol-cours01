@@ -1,0 +1,13 @@
+h2{
+    color: #3131cd;
+    text-decoration: underline;
+    font-size: 44px;
+    font-style: italic;
+}
+
+/*la recommandation est d'utiliser des classes*/
+.style_titre{
+    color: #c23c14;
+    border: #3131cd solid 2px;
+    font-size: 44px;
+}
