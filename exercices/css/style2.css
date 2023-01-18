@@ -1,0 +1,32 @@
+.couleur_fond_table{
+    background-color: #bccc0c;
+}
+
+.style_titre{
+    font-size: 40px;
+    font-weight: bold;
+    color: #700404; 
+    margin-left: 30px;
+}
+
+.menu_liste{
+    list-style-type: none;
+    font-weight: bold;
+}
+
+.menu_liste a{
+    text-decoration: none;
+    color:#0a0afe
+}
+
+.menu_liste li{
+    background-color: #ffffff;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.style_p{
+    color: #700404;
+    margin-left: 30px;
+}
