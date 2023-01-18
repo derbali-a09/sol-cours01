@@ -1,0 +1,12 @@
+.couleur_fond{
+    background-color:#C8C8C8 ;
+}
+
+.titre_secondaire{
+    color:#080849;
+    text-align: center;
+}
+
+.liste_cercle_vide{
+    list-style-type: circle;
+}
